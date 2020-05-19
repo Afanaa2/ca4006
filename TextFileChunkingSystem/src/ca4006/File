@@ -1,0 +1,5 @@
+"UI to chose chunk, You specify chunk and get prompted to add another chunk, After
+your choice for each chuk you can request the new meta data.
+"
+i am a client and i make a request for a file. the file request gets put in a queue.
+another client makes a request the client request is put in the queue.
